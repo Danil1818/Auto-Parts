@@ -1,0 +1,39 @@
+
+/* Container */
+.container {
+	width: 100%;
+	max-width: 1170px;
+	margin: 0 auto;
+}
+.main {
+	text-align: center;
+}
+/* search */
+/* table */
+table {
+	margin: 0px auto;
+}
+th, td {
+	padding: 10px;
+}
+th {
+	background: #535353;
+}
+td {
+	background: #A6A6A6;
+	color: #000;
+	font-weight: 600;
+}
+.table-responsive {
+	overflow-x: auto;
+}
+.title {
+	margin-bottom: 25px;
+}
+.update__link {
+	color: #fff;
+	text-decoration: underline;
+}
+.delete__link {
+	color: red;
+}

@@ -1,0 +1,34 @@
+.profile {
+	padding: 0px 0 50px 0;
+}
+.inner__profile {
+	text-align: center;
+}
+.logout {
+	display: inline-block;
+	padding: 5px 15px;
+	background: red;
+	border-radius: 3px;
+}
+.crud__form {
+	max-width: 500px;
+	margin: 0 auto;
+}
+.crud__title {
+	text-align: center;
+}
+input, select, button {
+	width: 100%;
+	border: none;
+	border-radius: 5px;
+	padding: 5px 10px;	
+	margin-bottom: 10px;
+}
+.update__link {
+	color: blue;
+}
+.add__btn {
+	margin-top: 20px;
+	background: #FFC700;
+	cursor: pointer;
+}
